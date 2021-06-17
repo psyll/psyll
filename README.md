@@ -1,4 +1,4 @@
-# Github>Psyll 
+# Psyll Github 
 
 - 👋 Hi, I’m @psyll
 - 👀 I’m interested in ...
