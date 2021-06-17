@@ -1,4 +1,4 @@
-# Psyll Github 
+# Psyll Github Profile
 
 - 👋 Hi, I’m @psyll
 - 👀 I’m interested in ...
