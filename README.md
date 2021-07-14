@@ -4,9 +4,10 @@
 
 <p align="center">
 
-<img width="40%;" src="https://github-readme-stats.vercel.app/api?username=Psyll">
-<img width="40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=psyll">
-<img width="80%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=default&card_width=800">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Psyll">
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=psyll">
+  <br>
+<img width="804px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=compact&card_width=800">
   
 </p>
 
