@@ -6,9 +6,7 @@
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Psyll)
 
-
 ![Shubham's github stats](https://github-readme-streak-stats.herokuapp.com/?user=psyll)
-
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=default&card_width=495)
 
