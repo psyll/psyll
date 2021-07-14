@@ -1,7 +1,9 @@
 # Psyll Github Profile
 
+<img src="https://komarev.com/ghpvc/?username=psyll&label=Profile%20views&color=0e75b6&style=flat" alt="psyll" /> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psyll&label=Profile%20views&color=0e75b6&style=flat" alt="psyll" /> </p>
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Psyll)](https://github.com/TheShubham-K/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
