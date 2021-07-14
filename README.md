@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=psyll&label=Profile%20views&color=0e75b6&style=flat)
 
-<center>
+<p align="center">
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Psyll)
 
@@ -10,7 +10,7 @@
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=default&card_width=495)
 
-</center>
+</p>
 
 
 # Languages and Tools:
