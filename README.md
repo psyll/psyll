@@ -4,6 +4,8 @@
 
 <p align="center">
 
+<img align="left" width="100%" src="hhttps://github-readme-stats.vercel.app/api?username=Psyll">
+
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Psyll)
 
 ![Shubham's github stats](https://github-readme-streak-stats.herokuapp.com/?user=psyll)
