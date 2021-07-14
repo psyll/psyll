@@ -4,14 +4,10 @@
 
 <p align="center">
 
-<img align="left" width="100%" src="hhttps://github-readme-stats.vercel.app/api?username=Psyll">
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Psyll)
-
-![Shubham's github stats](https://github-readme-streak-stats.herokuapp.com/?user=psyll)
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=default&card_width=495)
-
+<img width="80%;" styles="max-width:100px;" src="https://github-readme-stats.vercel.app/api?username=Psyll">
+<img width="80%;" src="https://github-readme-streak-stats.herokuapp.com/?user=psyll">
+<img width="80%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=psyll&show_icons=true&locale=en&layout=default&card_width=600">
+  
 </p>
 
 
