@@ -8,5 +8,5 @@
 </p>
   
 <p align="center">
-<img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,html,css,json,postgresql,mysql,markdown](https://profile-summary-for-github.com/user/psyll">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy">
 </p>
