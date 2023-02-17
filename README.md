@@ -8,8 +8,5 @@
 </p>
   
 <p align="center">
-<img width="48%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,html,css,json,postgresql,mysql,markdown">
-<img width="48%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,npm,wordpress,nodejs,apache">
-<img width="48%" src="https://github-widgetbox.vercel.app/api/skills?libraries=jquery">
-<img width="48%" src="https://github-widgetbox.vercel.app/api/skills?software=windows,vscode">
+<img width="100%" src="[https://github-widgetbox.vercel.app/api/skills?languages=js,php,html,css,json,postgresql,mysql,markdown](https://profile-summary-for-github.com/user/psyll">
 </p>
