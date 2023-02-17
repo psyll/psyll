@@ -8,5 +8,8 @@
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=psyll">
+<img src="[https://github-profile-trophy.vercel.app/?username=psyll](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
 </p>
+
+
+
